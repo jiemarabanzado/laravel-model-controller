@@ -1,0 +1,12 @@
+@import '~bootstrap/scss/bootstrap';
+@import "reset.scss";
+
+
+.ms-container{
+    width: 1300px;
+    margin: auto;
+}
+.ms-grid{
+    display: flex;
+    flex-direction: row;
+}
